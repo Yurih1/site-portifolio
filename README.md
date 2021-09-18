@@ -1,4 +1,4 @@
-# site portifólio
+# Site portifólio
 
 #### Site single page simples para portifólio usando apenas HTML e CSS:
 <br>
